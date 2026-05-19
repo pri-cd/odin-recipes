@@ -10,3 +10,24 @@ html {
     object-fit: cover;
 }
 
+.return-home {
+    background-color: #786DD7;
+    border-radius: 5px;
+    padding: 10px;
+    position: fixed;
+    inset: auto 10px 10px auto;
+}
+
+.return-home a {
+    color: white;
+    text-decoration: none;
+}
+
+.return-home a:hover {
+    font-weight: bold;
+    background-color: #97D76D;
+    color: black;
+    padding: 2px;
+    border-radius: 2px;
+    transition: all 0.4s ease;
+}
