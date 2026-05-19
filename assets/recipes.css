@@ -31,3 +31,9 @@ html {
     border-radius: 2px;
     transition: all 0.4s ease;
 }
+
+.attribution a
+{
+    text-decoration: none;
+    font-style: italic;
+}
